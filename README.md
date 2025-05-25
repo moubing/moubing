@@ -28,11 +28,27 @@
 - UI/UX design principles for geospatial interfaces.  
 - Balancing coding with outdoor activities (I’m a running enthusiast!).  
 
+### 💻 Technical Expertise  
+**Frontend Development**  
+- Proficient in **React** and **Next.js** frameworks, with hands-on experience in building scalable applications using component-based architecture, server-side rendering (SSR), and static site generation (SSG).  
+- Expertise in state management solutions like **Redux Toolkit**, **Zustand**, and **TanStack Query** for complex data-flow scenarios.  
 
-## 📫 How to reach me  
-- **Email**: moubing_tech@example.com  
-- **GitHub**: [@MouBingDev](https://github.com/MouBingDev)  
-- **LinkedIn**: [Mou Bing](linkedin.com/in/mou-bing)  
+**Backend & Database**  
+- Skilled in **Node.js** backend development, RESTful API design, and middleware implementation (Express.js/NestJS).  
+- Proficient with **Prisma ORM** for type-safe database operations (PostgreSQL/MySQL), including schema design, migrations, and query optimization.  
+
+**UI/UX Engineering**  
+- Expert in **Tailwind CSS v3** and **shadcn.ui** for rapid prototyping and building accessible, responsive interfaces with atomic CSS principles.  
+- Advanced animations and interactions using **GSAP** and **Framer Motion**, creating smooth transitions and micro-interactions.  
+
+**DevOps & Tooling**  
+- Linux command-line proficiency for server administration, containerization (Docker), and CI/CD pipeline setup (GitHub Actions).  
+- Git workflow mastery (branching strategies, conflict resolution) for collaborative development.  
+
+**Geospatial Specialization**  
+- Experience with **MapLibre-GL.js** for creating interactive web maps, including custom layers, geocoding, and spatial analysis.  
+- Familiarity with GIS data formats (GeoJSON, Shapefile) and integration with backend services.  
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devgreenhand@outlook.com) 

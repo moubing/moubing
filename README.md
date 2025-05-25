@@ -1,6 +1,38 @@
-# 💫 About Me:
-Hello! I am Mou Bing, a student majoring in Geographic Information Science from Yunnan University, Class of 2021. I am passionate about programming, primarily using React for web development. I have a solid command of HTML, CSS, and JavaScript, and I enjoy interface design and page interaction. Additionally, I have a foundational understanding of backend technologies, with familiarity in Node.js and PostgreSQL. I am an outgoing person and maintain regular exercise habits such as running. In my free time, I enjoy playing soul-like games and card strategy games.
+## 👋 Hello! I'm Mou Bing  
+*Geographic Information Science Student at Yunnan University (Class of 2021) | Web Developer | UI/UX Enthusiast*  
 
+
+## 🔭 I’m currently working on  
+- Building responsive web applications with **React** and modern state management (e.g., Redux/TanStack Query).  
+- Designing intuitive UI components and interactive prototypes for geospatial data visualization projects.  
+
+
+## 🌱 I’m currently learning  
+- **Next.js** for server-side rendering and static site generation.  
+- **PostGIS** (spatial extensions for PostgreSQL) to integrate geographic data with web apps.  
+- Advanced CSS techniques (CSS-in-JS, CSS Grid/Flexbox) for pixel-perfect layouts.  
+
+
+## 👯 I’m looking to collaborate on  
+- Frontend development teams for open-source projects (especially in GIS or education tech).  
+- Cross-functional groups exploring AI-driven map interactions or low-code UI tools.  
+
+
+## 🤔 I’m looking for help with  
+- Optimizing React component performance in large-scale applications.  
+- Implementing real-time collaboration features (e.g., WebSockets, ShareDB).  
+
+
+## 💬 Ask me about  
+- Web development workflows (React + Node.js full-stack).  
+- UI/UX design principles for geospatial interfaces.  
+- Balancing coding with outdoor activities (I’m a running enthusiast!).  
+
+
+## 📫 How to reach me  
+- **Email**: moubing_tech@example.com  
+- **GitHub**: [@MouBingDev](https://github.com/MouBingDev)  
+- **LinkedIn**: [Mou Bing](linkedin.com/in/mou-bing)  
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devgreenhand@outlook.com) 
@@ -20,17 +52,4 @@ Hello! I am Mou Bing, a student majoring in Geographic Information Science from 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--
-**moubing/moubing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
